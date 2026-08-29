@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-02
 venue: "University of Georgia, FHCE"
-date: 2026-08-01
+date: Fall 2026
 location: "Athens, GA, US"
 ---
