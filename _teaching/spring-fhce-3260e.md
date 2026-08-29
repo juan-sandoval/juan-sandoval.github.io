@@ -1,5 +1,5 @@
 ---
-title: "•	FHCE 3260E Computer Applications for Financial Planning"
+title: "FHCE 3260E Computer Applications for Financial Planning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /spring-fhce-3260e
