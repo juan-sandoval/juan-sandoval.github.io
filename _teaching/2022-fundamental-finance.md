@@ -1,7 +1,7 @@
 ---
 title: "Fundamentals of finance"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2022-fundamental-finance
 venue: "Pontificia Universidad Javeriana, FCEA"
 date: 2022-03-01
