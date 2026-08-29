@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "The application of proxy methods for estimating the cost of equity for unlisted companies: evidence from listed firms"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2021-cost-of-capital
+excerpt: 'This paper employs the Two Beta Decomposition Model (TBDM) to compute the cost of equity for unlisted companies via a proxy from listed firms, testing its performance alongside three traditional alternative models.'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: ' Review of Quantitative Finance and Accounting'
+paperurl: 'https://doi.org/10.1007/s11156-021-00968-3'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
