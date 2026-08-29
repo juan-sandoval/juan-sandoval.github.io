@@ -5,5 +5,6 @@ type: "Undergraduate course"
 permalink: /teaching/spring-fhce-3260e
 venue: "University of Georgia, FHCE"
 date: 2026-01-01
+term: 'Spring 2026'
 location: "Athens, GA, US"
 ---
