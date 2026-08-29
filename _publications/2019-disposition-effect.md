@@ -7,7 +7,7 @@ excerpt: 'This paper investigates the Disposition Effect using different units o
 date: 2019-12-1
 venue: 'Journal of Behavioral and Experimental Finance'
 paperurl: 'https://doi.org/10.1016/j.jbef.2019.04.004'
-citation: 'Sarmiento, J., Cayon, E., Rendon, J.'
+citation: 'Sarmiento, J., Cayon, E., & Rendon, J.'
 ---
 Co-authors: [Julio Sarmiento-Sabogal](https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en),
           [Jairo Rendon](https://scholar.google.com.co/citations?user=CuEH7EIAAAAJ&hl=en),
