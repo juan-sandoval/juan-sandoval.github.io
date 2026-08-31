@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Financial Planning at the University of Georgia. My research interests lie at the intersection of household finance, natural disasters, and financial education.
+I am a PhD Candidate in Financial Planning at the University of Georgia and a candidate for CFP® certification. My research interests lie at the intersection of household finance, natural disasters, and financial education.
 
 I have experience in experimental design, quantitative research, and teaching, complemented by professional experience in financial advising. My published research covers bond markets, the disposition effect, the cost of capital, and financial knowledge.
 
