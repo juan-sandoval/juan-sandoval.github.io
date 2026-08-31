@@ -18,6 +18,6 @@ I have experience in experimental design, quantitative research, and teaching, c
 * Bachelor of Economics, Pontificia Universidad Javeriana, 2013
 
 **Working Papers**
-* How Physical and Mental Health Shape EITC Filing During COVID-19.
-* Flood Events and Precautionary Savings.
-* Do VITA Services Change Subjective Financial Well-Being? Evidence from Pre–Post Client Data.
+* "Health Shocks and Earned Income Tax Credit Take-Up During the Pandemic" (with Effi Antonoudi, Catherine Assimwe, and Lance Palmer). *Under review*.
+* "Flood Events and Precautionary Savings" (with [Patryk Babiarz](https://scholar.google.com.co/citations?user=E8eyEWwAAAAJ&hl=en&oi=ao)).
+* "The Impact of Free Tax Preparation on Clients' Subjective Well-Being" (with Francisco Diaz and Travis Mountain). *Under review*.
