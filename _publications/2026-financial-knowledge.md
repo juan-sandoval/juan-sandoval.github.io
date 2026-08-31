@@ -7,7 +7,7 @@ excerpt: "This study examines the relationship between subjective and objective 
 date: 2026-5-27
 venue: 'International Journal of Bank Marketing'
 paperurl: 'https://doi.org/10.1108/IJBM-09-2024-0567'
-citation: 'Sarmiento, J., Cayon, E., & Collazos, M.'
+citation: 'Maria Collazos-Ortiz, Julio Sarmiento-Sabogal, & Edgardo Cayon'
 ---
 Co-authors: [Maria Collazos-Ortiz](https://scholar.google.com.co/citations?user=CuEH7EIAAAAJ&hl=en),
           [Julio Sarmiento-Sabogal](https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en),
