@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-** Classes
+**Classes**
 
 * **FHCE 3260 Computer Applications for Financial Planning**  
   Undergraduate course, University of Georgia, FHCE, Fall 2026  
@@ -28,7 +28,7 @@ author_profile: true
 * **Macroeconometrics**  
   Undergraduate course, Universidad de La Sabana, Spring 2017
 
-** Module Instructor
+**Module Instructor**
 
 * **Econometric Analysis with STATA and Big Data**  
   Graduate course (Module Instructor), Universidad Santo Tomas, Jul 2020  
