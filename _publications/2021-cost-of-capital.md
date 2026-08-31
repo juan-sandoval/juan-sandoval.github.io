@@ -7,7 +7,7 @@ excerpt: 'This paper employs the Two Beta Decomposition Model (TBDM) to compute 
 date: 2021-10-01
 venue: ' Review of Quantitative Finance and Accounting'
 paperurl: 'https://doi.org/10.1007/s11156-021-00968-3'
-citation: 'Sarmiento, J., Mehdi, S., & Edgardo, C.'
+citation: 'Julio Sarmiento-Sabogal, Mehdi Sadeghi, & Edgardo Cayon'
 ---
 
 Co-authors: [Julio Sarmiento-Sabogal](https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en),
