@@ -15,7 +15,7 @@ author_profile: true
   Undergraduate course, University of Georgia, FHCE, Fall 2024 & Fall 2025  
 
 * **Macroeconometrics**  
-  Undergraduate course, Universidad de La Sabana, Spring 2027  
+  Undergraduate course, Universidad de La Sabana, Spring 2017  
 
 * **Fundamentals of Finance**  
   Graduate course, Pontificia Universidad Javeriana, FCEA, 2022–2023  
