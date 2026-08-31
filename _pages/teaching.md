@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 * **FHCE 3260 Computer Applications for Financial Planning**  
   Undergraduate course, University of Georgia, FHCE, Fall 2026  
 
