@@ -7,9 +7,7 @@ excerpt: 'This study tests the informational efficiency of Venezuelan USD sovere
 date: 2017-10-1
 venue: 'Research in International Business and Finance'
 paperurl: 'https://doi.org/10.1016/j.ribaf.2017.04.047'
-citation: 'Julio Sarmiento <a href="https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en">,
-          Edgardo Cayon J.</a> <a href="https://scholar.google.com.co/citations?user=Fx1DvVsAAAAJ&hl=en">, 
-          </a>, & Maria Collazos <a href="https://scholar.google.com.co/citations?user=CuEH7EIAAAAJ&hl=en"></a>'
+citation: '<a href="https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en">Julio Sarmiento</a>, <a href="https://scholar.google.com.co/citations?user=Fx1DvVsAAAAJ&hl=en">Edgardo Cayon</a>, & <a href="https://scholar.google.com.co/citations?user=CuEH7EIAAAAJ&hl=en">Maria Collazos</a>'
 ---
 
 Co-authors: [Julio Sarmiento-Sabogal](https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en),
