@@ -14,6 +14,7 @@ I have experience in experimental design, quantitative research, and teaching, c
 <a href="https://www.fcs.uga.edu/people/bio/juan-sandoval" class="btn btn--primary">UGA Directory Profile</a>
 
 **Education**
+* Ph.D. Financial Planning, University of Georgia, 2027 (e)
 * Master of Economics, Pontificia Universidad Javeriana, 2015
 * Bachelor of Economics, Pontificia Universidad Javeriana, 2013
 
