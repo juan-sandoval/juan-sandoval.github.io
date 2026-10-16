@@ -10,5 +10,5 @@ paperurl: 'https://doi.org/10.1016/j.jbef.2019.04.004'
 citation: 'Julio Sarmiento-Sabogal, Jairo Rendon, & Edgardo Cayon'
 ---
 Co-authors: [Julio Sarmiento-Sabogal](https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en),
-          [Jairo Rendon](https://scholar.google.com.co/citations?user=CuEH7EIAAAAJ&hl=en),
+          [Jairo Rendon](https://scholar.google.com.co/citations?hl=en&user=Aj7yXtsAAAAJ),
           [Edgardo Cayon](https://scholar.google.com.co/citations?user=Fx1DvVsAAAAJ&hl=en)
