@@ -13,3 +13,14 @@ citation: 'Julio Sarmiento-Sabogal, Edgardo Cayon, & Maria Collazos-Ortiz'
 Co-authors: [Julio Sarmiento-Sabogal](https://scholar.google.com.co/citations?user=GiQ3sYoAAAAJ&hl=en),
           [Edgardo Cayon](https://scholar.google.com.co/citations?user=Fx1DvVsAAAAJ&hl=en),
           [Maria Collazos-Ortiz](https://scholar.google.com.co/citations?user=CuEH7EIAAAAJ&hl=en)
+
+**Abstract**
+
+Purpose
+We test the informational efficiency of Venezuelan USD sovereign bond yields when the black market exchange-rate premium (BMERP) changes.
+Design
+We use a non-parametric, asymmetric, Granger causality test to test our hypothesis.
+Findings
+We find that the bond market with less than or equal to 5 years of maturity seems to be efficient when good news is released on the BMERP. However, this market is not informationally efficient, and when combined with unbiased bad news regarding the BMERP, arbitrage opportunities are created.
+Originality/value
+Capital controls that restrict free exchange-rate mechanisms create arbitrage opportunities with negative news as opposed to positive news.
