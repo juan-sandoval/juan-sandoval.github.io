@@ -19,6 +19,6 @@ I have experience in experimental design, quantitative research, and teaching, c
 * Bachelor of Economics, Pontificia Universidad Javeriana, 2013
 
 **Working Papers**
-* "Health Shocks and Earned Income Tax Credit Take-Up During the Pandemic" (with [Effi Antonoudi](https://scholar.google.com.co/citations?user=z3urJCkAAAAJ&hl=en&oi=sra), [Catherine Assimwe](https://scholar.google.com.co/citations?user=2hWHoJMAAAAJ&hl=en&oi=ao), and [Lance Palmer](https://scholar.google.com.co/citations?user=P4bOySUAAAAJ&hl=en&oi=ao). *Under review*.
-* "Flood Events and Precautionary Savings" (with [Patryk Babiarz](https://scholar.google.com.co/citations?user=E8eyEWwAAAAJ&hl=en&oi=ao)).
+* "How Physical and Mental Health Shape EITC Filing During COVID-19" (with [Effi Antonoudi](https://scholar.google.com.co/citations?user=z3urJCkAAAAJ&hl=en&oi=sra), [Catherine Assimwe](https://scholar.google.com.co/citations?user=2hWHoJMAAAAJ&hl=en&oi=ao), and [Lance Palmer](https://scholar.google.com.co/citations?user=P4bOySUAAAAJ&hl=en&oi=ao). *Under review*.
+* "Do Natural Disasters Build or Erode Precautionary Saving? Evidence from Floods, Wildfires, and Hurricanes in the U.S." (with [Patryk Babiarz](https://scholar.google.com.co/citations?user=E8eyEWwAAAAJ&hl=en&oi=ao)).
 * "The Impact of Free Tax Preparation on Clients' Subjective Well-Being" (with [Francisco Diaz](https://www.fcs.uga.edu/people/bio/francisco-diaz) and [Travis Mountain](https://scholar.google.com.co/citations?user=7JzpFvsAAAAJ&hl=en&oi=ao)). *Under review*.
